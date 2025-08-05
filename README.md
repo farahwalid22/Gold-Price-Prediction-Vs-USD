@@ -1,6 +1,5 @@
 # 🟡 Gold-Price-Prediction-Vs-USD
-![Gold-Price-Prediction-Vs-USD](<img width="822" height="538" alt="image" src="https://github.com/user-attachments/assets/691829fb-5c26-4627-92ee-cadd84991172" />
-)
+<img width="822" height="538" alt="image" src="https://github.com/user-attachments/assets/691829fb-5c26-4627-92ee-cadd84991172" />
 This project aims to forecast gold prices in Egypt by analyzing their relationship with the USD and global market prices using traditional ML models and time series forecasting.
 
 ---
