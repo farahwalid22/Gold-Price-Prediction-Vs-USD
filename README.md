@@ -60,12 +60,6 @@ Gold holds great significance in Egypt, both culturally and economically. From a
 
 ---
 
-## 🤝 Contributing
-
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
----
-
 ## 📜 Kaggle Notebook
 
 [Gold Price Prediction](https://www.kaggle.com/code/fatmayousufmohamed/gold-prices/notebook#notebook-container)
